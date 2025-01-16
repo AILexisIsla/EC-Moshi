@@ -1,6 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Para este proyecto use clerk auth como autentificacion, Prisma para gestionar la base de datos y shadcn ui para la ui, hasta el moemento sigo trabajando en la parte del dashboard que serviria para generar diferentes tiendas auto generando mediante prisma y supabase las bases de datos para las tiendas.
+
 ## Getting Started
+ 
 
 First, run the development server:
 
